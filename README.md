@@ -25,3 +25,8 @@ Você deve adicionar neste projeto e fazer o commit dos seguintes artefatos:
 | epsilon_dec     |            |
 | epsilon_min     |            |
 | qtd_episodios   |            |
+
+
+## Comparação entre abordagens
+
+* inserir o seu gráfico aqui, se for o caso. 
